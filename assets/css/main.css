@@ -7,6 +7,8 @@ body{
 .Contenedor{
   background-color: #FFF;
   width: 900px;
+  margin: 0 auto;
+  padding: 10px;
 }
 .DivCabecera{
   background-color: #E00109;
@@ -64,9 +66,29 @@ body{
   padding: 8px 10px;
   display: inline-block;
 }
+#Noticias{
+  width: 65%;
+}
+#Editorial{
+  width: 30%;
+}
 .PanelNoticia{
   background-color: #333340;
 }
 .PanelEditorial{
   background-color: #1363a9;
+}
+.Titular{
+  display: inline-block;
+  position: absolute;
+  width: 21%;
+  font-size: 22px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.ImgArticulo{
+  display: inline-block;
+  left: 160px;
+  position: relative;
 }
