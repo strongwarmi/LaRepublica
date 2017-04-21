@@ -1,0 +1,53 @@
+.sprite {
+    background-image: url("../images/spritesheet.png");
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-alcalde-de-chilca {
+    width: 243px;
+    height: 270px;
+    background-position: -5px -5px;
+}
+
+.sprite-alejandra-aramayo {
+    width: 312px;
+    height: 165px;
+    background-position: -258px -5px;
+}
+
+.sprite-anuncio {
+    width: 310px;
+    height: 86px;
+    background-position: -258px -180px;
+}
+
+.sprite-corea {
+    width: 312px;
+    height: 165px;
+    background-position: -258px -276px;
+}
+
+.sprite-logo {
+    width: 281px;
+    height: 49px;
+    background-position: -5px -451px;
+}
+
+.sprite-odebrecht {
+    width: 425px;
+    height: 250px;
+    background-position: -580px -5px;
+}
+
+.sprite-senora {
+    width: 53px;
+    height: 84px;
+    background-position: -1015px -5px;
+}
+
+.sprite-Real-Madrid {
+    width: 462px;
+    height: 265px;
+    background-position: -580px -265px;
+}

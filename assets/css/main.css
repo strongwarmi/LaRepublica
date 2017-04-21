@@ -1,0 +1,72 @@
+body{
+  background-color: #ebebeb;
+  color: #FFF;
+  margin: 0;
+  font-family: 'Roboto',sans-serif;
+}
+.Contenedor{
+  background-color: #FFF;
+  width: 900px;
+}
+.DivCabecera{
+  background-color: #E00109;
+  height: 60px;
+}
+.Cabecera{
+  width: 900px;
+  margin: 0 auto;
+  height: 60px;
+  position: relative;
+}
+.Logo,
+.Redes,
+.Busqueda{
+  display: inline-block;
+  vertical-align:middle;
+  width: 290px;
+  position: absolute;
+}
+.Redes{
+  left: 400px;
+  top: 20px;
+}
+.InputBuscar{
+  background-color: transparent;
+  border: 0;
+  color: #FFF;
+  padding: 10px;
+  width: 50px;
+}
+.Menu{
+  background-color: #4d4d59;
+  width: 900px;
+  margin: 0 auto;
+}
+.DivMenu{
+  background-color: #5c5c66;
+  height: 30px;
+}
+.Busqueda{
+  background-color: transparent;
+  border: 1px solid #fff;
+  border-radius: 20px;
+  right: 50px;
+  top: 12px;
+}
+.Logo{
+  top: 7px;
+}
+.LinkMenu{
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #FFF;
+  font-size: 12px;
+  padding: 8px 10px;
+  display: inline-block;
+}
+.PanelNoticia{
+  background-color: #333340;
+}
+.PanelEditorial{
+  background-color: #1363a9;
+}
